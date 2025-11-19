@@ -1,0 +1,9 @@
+# GEPIA2 Database Information
+
+- **Full Database Name:** GEPIA2 (Gene Expression Profiling Interactive Analysis 2)
+- **Version Used:** GEPIA2 Web Server (2024 Update)
+- **Access Date(s):** 01-08-2025
+- **Persistent Identifier/URL:** http://gepia2.cancer-pku.cn/
+- **Description of Data Used:** Used for analyzing differential gene expression, survival associations, correlation matrices, and cancer/normal tissue expression patterns derived from TCGA and GTEx RNA-seq datasets.
+- **Key Parameters/Filters Applied:** LUAD dataset selection, |log2FC| cutoff, q-value threshold, expression boxplots, survival curves (OS/DFS), and gene–gene correlation analysis.
+- **Licensing Information:** GEPIA2 is freely accessible for academic use; users should follow the citation and usage guidelines provided on the GEPIA2 website.
